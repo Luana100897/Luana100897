@@ -1,4 +1,12 @@
-﻿# Olá, eu sou a Luana Caroline
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Luana%20Caroline%20-%20Developer&fontAlign=50&fontAlignY=35&color=0:0f766e,100:1d4ed8&fontColor=ffffff" alt="Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=24&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Front-end+com+React.js+e+Next.js;Back-end+com+Node.js;Mobile+com+React+Native+e+APK+Android;Automacao+de+fluxos+para+negocios+reais" alt="Typing Animation" />
+</div>
+
+# Olá, eu sou a Luana Caroline
 
 Sou desenvolvedora em evolução constante, com foco em criar soluções úteis para negócios reais.
 Gosto de projetos que resolvem problemas do dia a dia, com interface clara, fluxo simples e resultado prático.
