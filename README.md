@@ -1,57 +1,69 @@
-# Olá, eu sou a Luana Caroline
+ï»¿# OlÃ¡, eu sou a Luana Caroline
 
-Sou desenvolvedora em evolução constante, com foco em criar soluções úteis para negócios reais.
-Gosto de projetos que resolvem problemas do dia a dia, com interface clara, fluxo simples e resultado prático.
+Sou desenvolvedora em evoluÃ§Ã£o constante, com foco em criar soluÃ§Ãµes Ãºteis para negÃ³cios reais.
+Gosto de projetos que resolvem problemas do dia a dia, com interface clara, fluxo simples e resultado prÃ¡tico.
 
 ## Meu foco hoje
 
-- Front-end com React e Vite
-- Integração de sistemas para automação de atendimento
-- Organização de dados financeiros e operacionais
+- Front-end com React.js e Next.js
+- Desenvolvimento mobile com React Native
+- Back-end com Node.js
+- IntegraÃ§Ã£o de sistemas para automaÃ§Ã£o de atendimento
+- OrganizaÃ§Ã£o de dados financeiros e operacionais
 - Entrega de produtos com visual profissional e boa usabilidade
+
+## Stack principal
+
+- Node.js
+- React.js
+- Next.js
+- React Native
+- JavaScript
+- HTML e CSS
+- Git e GitHub
 
 ## Projetos em destaque
 
 ### 1) Nota Fiscal
-Sistema de emissão de nota/cupom com relatórios financeiros, contas a pagar e contas a receber.
+Sistema de emissÃ£o de nota/cupom com relatÃ³rios financeiros, contas a pagar e contas a receber.
 
-- Repositório: [NotaFiscal](https://github.com/Luana100897/NotaFiscal)
+- RepositÃ³rio: [NotaFiscal](https://github.com/Luana100897/NotaFiscal)
 - Destaques:
-  - Emissão e impressão de cupom
-  - Relatório de vendas por período
+  - EmissÃ£o e impressÃ£o de cupom
+  - RelatÃ³rio de vendas por perÃ­odo
   - Painel financeiro com indicadores
   - Controle de contas a pagar e a receber
 
 ### 2) Onda Finance
-Aplicação web simulando fluxo financeiro com interface organizada e foco em clareza de dados.
+AplicaÃ§Ã£o web simulando fluxo financeiro com interface organizada e foco em clareza de dados.
 
-- Repositório: [Onda-Finance-](https://github.com/Luana100897/Onda-Finance-)
+- RepositÃ³rio: [Onda-Finance-](https://github.com/Luana100897/Onda-Finance-)
 - Destaques:
   - Estrutura front-end moderna
-  - Organização de telas por contexto
-  - Evolução contínua de experiência do usuário
+  - OrganizaÃ§Ã£o de telas por contexto
+  - EvoluÃ§Ã£o contÃ­nua de experiÃªncia do usuÃ¡rio
 
 ### 3) WhatsApp Adeganery
-Base para automação de pedidos via WhatsApp, com resumo final para operação sem depender de conversa manual.
+Base para automaÃ§Ã£o de pedidos via WhatsApp, com resumo final para operaÃ§Ã£o sem depender de conversa manual.
 
-- Repositório: [whatsapp-adeganery](https://github.com/Luana100897/whatsapp-adeganery)
+- RepositÃ³rio: [whatsapp-adeganery](https://github.com/Luana100897/whatsapp-adeganery)
 - Destaques:
-  - Fluxo automático de pedido
+  - Fluxo automÃ¡tico de pedido
   - Coleta de dados de entrega
   - Resumo operacional para vendedor
   - Estrutura pronta para escalar como produto
 
 ## Como eu trabalho
 
-- Priorizo entendimento do problema antes do código
-- Busco código limpo, legível e com manutenção simples
-- Construo pensando em uso real, não só em protótipo
+- Priorizo entendimento do problema antes do cÃ³digo
+- Busco cÃ³digo limpo, legÃ­vel e com manutenÃ§Ã£o simples
+- Construo pensando em uso real, nÃ£o sÃ³ em protÃ³tipo
 - Tenho cuidado com acessibilidade e clareza visual
 
 ## Objetivo profissional
 
-Meu objetivo é atuar em projetos onde tecnologia e negócio caminham juntos, criando soluções que facilitem a operação e gerem resultado real.
+Meu objetivo Ã© atuar em projetos onde tecnologia e negÃ³cio caminham juntos, criando soluÃ§Ãµes que facilitem a operaÃ§Ã£o e gerem resultado real.
 
 ---
 
-Se você quiser acompanhar minha evolução, aqui no GitHub eu mantenho meus projetos atualizados com melhorias frequentes.
+Se vocÃª quiser acompanhar minha evoluÃ§Ã£o, aqui no GitHub eu mantenho meus projetos atualizados com melhorias frequentes.
