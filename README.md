@@ -10,7 +10,7 @@ Gosto de projetos que resolvem problemas do dia a dia, com interface clara, flux
 - Back-end com Node.js
 - Integração de sistemas para automação de atendimento
 - Organização de dados financeiros e operacionais
-- Entrega de produtos com visual profissional e boa usabilidade
+- Entrega de produtos com visual profissional, usabilidade e acessibilidade
 
 ## Stack principal
 
@@ -21,6 +21,14 @@ Gosto de projetos que resolvem problemas do dia a dia, com interface clara, flux
 - JavaScript
 - HTML e CSS
 - Git e GitHub
+
+## Competências práticas
+
+- Desenvolvimento web responsivo com abordagem mobile-first
+- Construção de aplicações mobile com React Native
+- Geração de APK para Android
+- Integração de aplicações com APIs e serviços backend
+- Estruturação de interfaces intuitivas para uso real de operação
 
 ## Projetos em destaque
 
