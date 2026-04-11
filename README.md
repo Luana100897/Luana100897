@@ -10,6 +10,7 @@
 
 Sou desenvolvedora em transição de carreira, com foco em construir produtos úteis, organizados e fáceis de usar.
 Tenho experiência prática com front-end, back-end e mobile, sempre priorizando clareza de interface, boa estrutura de código e resultado de negócio.
+Meu portfólio: [luana-tech-portfolio.vercel.app](https://luana-tech-portfolio.vercel.app/)
 
 ## Stack principal
 
@@ -61,6 +62,15 @@ Aplicação web com foco em organização financeira e experiência de uso.
   - Interface moderna e intuitiva
   - Estrutura de telas por contexto
   - Evolução contínua do fluxo de uso
+
+### Orion Connect Hub
+Plataforma para gestão de contatos com filtros inteligentes e acesso rápido.
+
+- Repositório: [orion-connect-hub](https://github.com/Luana100897/orion-connect-hub)
+- Destaques:
+  - Organização centralizada de contatos e informações
+  - Busca e filtro para ganho de produtividade
+  - Interface pensada para uso rápido no dia a dia
 
 ### WhatsApp Adeganery
 Automação de pedidos via WhatsApp com resumo final para operação.
