@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h1>Luana Caroline</h1>
   <p><strong>Node.js • React.js • Next.js • React Native • Mobile-First</strong></p>
   <p>Desenvolvimento web e mobile com foco em soluções práticas para negócios reais.</p>
@@ -80,6 +80,15 @@ Automação de pedidos via WhatsApp com resumo final para operação.
   - Fluxo automático de pedido
   - Coleta de dados de entrega
   - Resumo para vendedor sem necessidade de leitura de conversa
+
+### Orion Connect Hub
+Plataforma para gestão de contatos com filtro inteligente e acesso rápido.
+
+- Repositório: [orion-connect-hub](https://github.com/Luana100897/orion-connect-hub)
+- Destaques:
+  - Gestão centralizada de contatos
+  - Filtros inteligentes para busca rápida
+  - Interface otimizada para produtividade
 
 ## Como eu desenvolvo
 
