@@ -81,15 +81,6 @@ Automação de pedidos via WhatsApp com resumo final para operação.
   - Coleta de dados de entrega
   - Resumo para vendedor sem necessidade de leitura de conversa
 
-### Orion Connect Hub
-Plataforma para gestão de contatos com filtro inteligente e acesso rápido.
-
-- Repositório: [orion-connect-hub](https://github.com/Luana100897/orion-connect-hub)
-- Destaques:
-  - Gestão centralizada de contatos
-  - Filtros inteligentes para busca rápida
-  - Interface otimizada para produtividade
-
 ## Como eu desenvolvo
 
 - Entendo o problema antes de começar a codar
